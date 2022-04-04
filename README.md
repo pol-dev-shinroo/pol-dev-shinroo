@@ -11,19 +11,6 @@
     <img style="height: 180px" src="http://github-readme-streak-stats.herokuapp.com?user=jiho3894&theme=onedark&date_format=%5BY.%5Dn.j&fire=DD2727&ring=DD2727&currStreakNum=918FE0&dates=918FE0&sideLabels=918FE0&currStreakLabel=918FE0">
     <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact&show_icons=true&theme=material-           palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0">
 </div>
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiho3894&theme=dark&date_format=%5BY.%5Dn.j&ring=DD2727)](https://git.io/streak-stats)-->
-
-<div align="center">
-<br>
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=35&color=9D9ED2&center=true&vCenter=true&duration=10000&lines=Front-end+web+developer)](https://git.io/typing-svg)
-
-<br>
-    
-<div align="center">
-    <img style="height: 180px" src="http://github-readme-streak-stats.herokuapp.com?user=jiho3894&theme=onedark&date_format=%5BY.%5Dn.j&fire=DD2727&ring=DD2727&currStreakNum=918FE0&dates=918FE0&sideLabels=918FE0&currStreakLabel=918FE0">
-    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact&show_icons=true&theme=material-           palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0">
-</div>
 
 ## 기술 스택 📖
 
