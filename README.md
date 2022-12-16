@@ -1,1 +1,1 @@
-Soon to be a full stack dev 
+react.js + node.js + express.js
