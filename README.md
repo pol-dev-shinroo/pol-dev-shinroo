@@ -1,1 +1,1 @@
-react.js + node.js + express.js
+react.js + node.js + express.js + mongoDB
